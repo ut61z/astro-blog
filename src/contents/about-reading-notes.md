@@ -1,12 +1,12 @@
 ---
 author: Yuta Endo
-datetime: 2022-10-27T16:00:00Z
+datetime: 2022-10-27T16:00:00+09:00
 title: 読書メモは自分のことばでまとめるのが一番費用対効果が高い
 slug: about-reading-notes
 featured: true
 draft: false
 tags:
-  - 読書
+  - reading
 ogImage: ""
 description:
   
